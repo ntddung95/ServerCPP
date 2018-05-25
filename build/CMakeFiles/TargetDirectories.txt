@@ -1,3 +1,0 @@
-/home/vp9/WORKS/ServerCPP/build/CMakeFiles/rebuild_cache.dir
-/home/vp9/WORKS/ServerCPP/build/CMakeFiles/edit_cache.dir
-/home/vp9/WORKS/ServerCPP/build/CMakeFiles/smart.dir
